@@ -1,0 +1,2 @@
+D:\Projects\Kondratev\obj\Debug\Kondratev.csprojResolveAssemblyReference.cache
+D:\Projects\Kondratev\obj\Debug\Kondratev.csproj.CoreCompileInputs.cache
