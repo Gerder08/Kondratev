@@ -1,2 +1,15 @@
 D:\Projects\Kondratev\obj\Debug\Kondratev.csprojResolveAssemblyReference.cache
 D:\Projects\Kondratev\obj\Debug\Kondratev.csproj.CoreCompileInputs.cache
+F:\Kondratev\obj\Debug\Kondratev.csprojResolveAssemblyReference.cache
+F:\Kondratev\bin\Debug\Kondratev.exe.config
+F:\Kondratev\bin\Debug\Kondratev.exe
+F:\Kondratev\bin\Debug\Kondratev.pdb
+F:\Kondratev\obj\Debug\Kondratev.exe
+F:\Kondratev\obj\Debug\Kondratev.pdb
+G:\Kondratev\bin\Debug\Kondratev.exe.config
+G:\Kondratev\bin\Debug\Kondratev.exe
+G:\Kondratev\bin\Debug\Kondratev.pdb
+G:\Kondratev\obj\Debug\Kondratev.csprojAssemblyReference.cache
+G:\Kondratev\obj\Debug\Kondratev.csproj.CoreCompileInputs.cache
+G:\Kondratev\obj\Debug\Kondratev.exe
+G:\Kondratev\obj\Debug\Kondratev.pdb
